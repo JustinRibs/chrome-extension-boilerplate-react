@@ -1,11 +1,11 @@
 {
-  "name": "chrome-extension-boilerplate-react",
+  "name": "Nancy & Justin Super Cool Chrome Extension",
   "version": "4.4.0",
-  "description": "A chrome extension boilerplate built with React 17, Webpack 5, and Webpack Dev Server 4",
+  "description": "Fun chrome extension that renders a beautiful to-do list with themes that correspond to the current weather and affirmations.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxieyang/chrome-extension-boilerplate-react.git"
+    "url": "https://github.com/JustinRibs/chrome-extension-boilerplate-react"
   },
   "scripts": {
     "build": "node utils/build.js",

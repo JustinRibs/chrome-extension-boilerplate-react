@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Chrome Extension with React & Webpack",
-  "description": "A chrome extension boilerplate built with React 17, Webpack 5, and Webpack Dev Server 4",
+  "name": "Nancy & Justin Super Cool Chrome Extension",
+  "description": "Fun chrome extension that renders a beautiful to-do list with themes that correspond to the current weather and affirmations.",
   "options_page": "options.html",
   "background": { "service_worker": "background.bundle.js" },
   "action": {

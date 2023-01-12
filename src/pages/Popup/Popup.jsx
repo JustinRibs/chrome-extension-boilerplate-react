@@ -5,7 +5,7 @@ import smiley from '../../assets/img/smiley.svg';
 import './Popup.css';
 
 const Popup = () => {
-  console.log('hi from justin');
+  console.log('hi from justin!');
   const [message, setMessage] = useState('');
   const [updated, setUpdated] = useState(message);
   const [list, setList] = useState([]);
